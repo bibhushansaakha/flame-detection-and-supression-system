@@ -20,7 +20,7 @@ The automation of the system using an Arduino Nano microcontroller ensures a rap
 
 The following components were used in this project:
 
-![Components](Components Used.png)
+![Components](Components.png)
 
 ## 2.1 Arduino Nano
 
@@ -57,7 +57,7 @@ Used for assembling and prototyping the circuit before final implementation. Hel
 
 # Chapter 3: Flow of Operation
 
-![Flow Diagram](Block Diagram.png)
+![Flow Diagram](Block_Diagram.png)
 
 ## 3.1 Initialization
 
