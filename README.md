@@ -1,5 +1,7 @@
 # flame-detection-and-supression-system
 
+Please watch this video to know more about this project: https://youtu.be/YIcbXj1amZk?si=xOzmwvV4LAcSddrc
+
 # Chapter 1: Background
 
 Fire incidents pose a significant threat to life, property, and the environment. Swift and efficient response mechanisms are crucial in minimizing the impact of such events. Traditional fire detection systems are often passive and lack the capability for immediate intervention. The project **"Flame Detection and Fire Suppression System using Arduino Nano"** addresses this limitation by combining real-time flame detection with an automated fire suppression mechanism.
